@@ -32,36 +32,41 @@
 		<meta property="file-as" refines="#title">Legends of Vancouver</meta>
 		<dc:subject id="subject-1">Legends -- British Columbia -- Vancouver</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/3478</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-CA</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3478</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:source>https://archive.org/details/legendsofvancouv00john</dc:source>
+		<dc:source>https://archive.org/details/legendsvancouver00johniala</dc:source>
+		<meta property="se:production-notes">The Project Gutenberg transcription Americanized the spelling. This edition returned the spelling to the original Canadian.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOKWIKILINK</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-pauline-johnson_legends-of-vancouver</meta>
 		<dc:creator id="author">E. Pauline Johnson</dc:creator>
-		<meta property="file-as" refines="#author">AUTHORSORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHORFULLNAME</meta>
+		<meta property="file-as" refines="#author">Johnson, E. Pauline</meta>
+		<meta property="se:name.person.full-name" refines="#author">Emily Pauline Johnson</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/E._Pauline_Johnson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n83028560</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="artist">Tom Thomson</dc:contributor>
+		<meta property="file-as" refines="#artist">Thomson, Tom</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Tom_Thomson</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50012239</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">LINK</meta>
+		<dc:contributor id="transcriber-1">Judy Boss</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Boss, Judy</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="transcriber-2">Andrew Sly</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Sly, Andrew</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Jonathan Kift</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Kift, Jonathan</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -76,14 +81,54 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-royal-mohawk-chief.xhtml" id="a-royal-mohawk-chief.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-squamish-legend-of-napoleon.xhtml" id="a-squamish-legend-of-napoleon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/authors-foreword.xhtml" id="authors-foreword.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/biographical-notice.xhtml" id="biographical-notice.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/deadmans-island.xhtml" id="deadmans-island.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/deer-lake.xhtml" id="deer-lake.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/point-grey.xhtml" id="point-grey.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-deep-waters.xhtml" id="the-deep-waters.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-grey-archway.xhtml" id="the-grey-archway.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lost-island.xhtml" id="the-lost-island.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lost-salmon-run.xhtml" id="the-lost-salmon-run.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lure-in-stanley-park.xhtml" id="the-lure-in-stanley-park.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-recluse.xhtml" id="the-recluse.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sea-serpent.xhtml" id="the-sea-serpent.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-siwash-rock.xhtml" id="the-siwash-rock.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tulameen-trail.xhtml" id="the-tulameen-trail.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-two-sisters.xhtml" id="the-two-sisters.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="preface.xhtml"/>
+		<itemref idref="authors-foreword.xhtml"/>
+		<itemref idref="biographical-notice.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="the-two-sisters.xhtml"/>
+		<itemref idref="the-siwash-rock.xhtml"/>
+		<itemref idref="the-recluse.xhtml"/>
+		<itemref idref="the-lost-salmon-run.xhtml"/>
+		<itemref idref="the-deep-waters.xhtml"/>
+		<itemref idref="the-sea-serpent.xhtml"/>
+		<itemref idref="the-lost-island.xhtml"/>
+		<itemref idref="point-grey.xhtml"/>
+		<itemref idref="the-tulameen-trail.xhtml"/>
+		<itemref idref="the-grey-archway.xhtml"/>
+		<itemref idref="deadmans-island.xhtml"/>
+		<itemref idref="a-squamish-legend-of-napoleon.xhtml"/>
+		<itemref idref="the-lure-in-stanley-park.xhtml"/>
+		<itemref idref="deer-lake.xhtml"/>
+		<itemref idref="a-royal-mohawk-chief.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
