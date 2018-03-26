@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/e-pauline-johnson/legends-of-vancouver</dc:identifier>
-		<dc:date>2018-03-21T21:28:07Z</dc:date>
-		<meta property="dcterms:modified">2018-03-21T21:28:07Z</meta>
+		<dc:date>2018-03-26T17:23:22Z</dc:date>
+		<meta property="dcterms:modified">2018-03-26T17:23:22Z</meta>
 		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -37,7 +37,9 @@
 		<dc:description id="description">E. Pauline Johnson’s collection of legends and myths of the Squamish people.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Emily Pauline Johnson, who was also known by the Mohawk name Tekahionwake, was a Canadian poet and author born in 1861. Born to a Mohawk father and an English mother, she was known for introducing indigenous culture to a wider North American and European audience.&lt;/p&gt;&lt;p&gt;In &lt;i&gt;Legends of Vancouver&lt;/i&gt;, perhaps her best-known prose work, Johnson tells stories of the Squamish people, as relayed to her by Chief Joe Capilano, whom she befriended upon moving to Vancouver in 1909. She provides her own framing for these stories, placing them in the context of her relationship with the Squamish people.&lt;/p&gt;&lt;p&gt;In 1911, a group of Johnson’s friends collected this series of stories, that had previously been published in the &lt;i&gt;Daily Province&lt;/i&gt;, in order to raise funds to support her as she struggled with poverty and health issues. In the intervening years, &lt;i&gt;Legends of Vancouver&lt;/i&gt; has become a foundational piece of Vancouver’s literary heritage.&lt;p&gt;
+			&lt;p&gt;Emily Pauline Johnson, who was also known by the Mohawk name Tekahionwake, was a Canadian poet and author born in 1861. Born to a Mohawk father and an English mother, she was known for introducing indigenous culture to a wider North American and European audience.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;Legends of Vancouver&lt;/i&gt;, perhaps her best-known prose work, Johnson tells stories of the Squamish people, as relayed to her by Chief Joe Capilano, whom she befriended upon moving to Vancouver in 1909. She provides her own framing for these stories, placing them in the context of her relationship with the Squamish people.&lt;/p&gt;
+			&lt;p&gt;In 1911, a group of Johnson’s friends collected this series of stories, that had previously been published in the &lt;i&gt;Daily Province&lt;/i&gt;, in order to raise funds to support her as she struggled with poverty and health issues. In the intervening years, &lt;i&gt;Legends of Vancouver&lt;/i&gt; has become a foundational piece of Vancouver’s literary heritage.&lt;p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-CA</dc:language>
@@ -78,6 +80,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
