@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/e-pauline-johnson/legends-of-vancouver</dc:identifier>
 		<dc:date>2018-03-26T17:23:22Z</dc:date>
-		<meta property="dcterms:modified">2018-05-09T20:47:13Z</meta>
-		<meta property="se:revision-number">3</meta>
+		<meta property="dcterms:modified">2018-07-30T02:35:37Z</meta>
+		<meta property="se:revision-number">4</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -46,7 +46,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/3478</dc:source>
 		<dc:source>https://archive.org/details/legendsofvancouv00john</dc:source>
 		<dc:source>https://archive.org/details/legendsvancouver00johniala</dc:source>
-		<meta property="se:production-notes">The Project Gutenberg transcription Americanized the spelling. This edition returned the spelling to the original Canadian. Some spelling, like Cariboo, is correct as-is for place names.</meta>
+		<meta property="se:production-notes">The Project Gutenberg transcription Americanized the spelling. This edition returned the spelling to the original Canadian. Some spelling, like Cariboo, is correct as-is for place names. The repetitive endnotes defining "Sagalie Tyee" are purposelfully included in each chapter, in case a story is anthologized apart from the rest.</meta>
 		<meta property="se:word-count">28677</meta>
 		<meta property="se:reading-ease.flesch">66.57</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-pauline-johnson_legends-of-vancouver</meta>
