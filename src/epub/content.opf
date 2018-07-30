@@ -46,7 +46,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/3478</dc:source>
 		<dc:source>https://archive.org/details/legendsofvancouv00john</dc:source>
 		<dc:source>https://archive.org/details/legendsvancouver00johniala</dc:source>
-		<meta property="se:production-notes">The Project Gutenberg transcription Americanized the spelling. This edition returned the spelling to the original Canadian.</meta>
+		<meta property="se:production-notes">The Project Gutenberg transcription Americanized the spelling. This edition returned the spelling to the original Canadian. Some spelling, like Cariboo, is correct as-is for place names.</meta>
 		<meta property="se:word-count">28677</meta>
 		<meta property="se:reading-ease.flesch">66.57</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-pauline-johnson_legends-of-vancouver</meta>
