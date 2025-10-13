@@ -60,7 +60,7 @@
 		<dc:contributor id="contributor">Bernard McEvoy</dc:contributor>
 		<meta property="file-as" refines="#contributor">McEvoy, Bernard</meta>
 		<meta property="se:url.authority.nacoaf" refines="#contributor">http://id.loc.gov/authorities/names/no2023007311</meta>
-		<meta property="role" refines="#contributor" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#contributor" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Tom Thomson</dc:contributor>
 		<meta property="file-as" refines="#artist">Thomson, Tom</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Tom_Thomson</meta>
