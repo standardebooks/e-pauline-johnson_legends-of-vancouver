@@ -1,0 +1,1 @@
+The Project Gutenberg transcription Americanized the spelling. This edition returned the spelling to the original Canadian. Some spelling, like Cariboo, is correct as-is for place names. The repetitive endnotes defining "Sagalie Tyee" are purposelfully included in each chapter, in case a story is anthologized apart from the rest.
